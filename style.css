@@ -1,3 +1,23 @@
 body{
-    background: pink;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 500;
+}
+.me{
+    font-size: 40px;
+}
+h1 .name{
+    color: orange;
+}
+section .half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 0%;
 }
